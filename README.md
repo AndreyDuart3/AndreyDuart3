@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **don't ask me**
 
-- 📫 How to reach me **you don't will**
+- 📫 How to reach me **you'll not**
 
 - ⚡ Fun fact **I think I am funny and handsome**
 
