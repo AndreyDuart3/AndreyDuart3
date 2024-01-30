@@ -3,21 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreyduart3&label=Profile%20views&color=0e75b6&style=flat" alt="andreyduart3" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **improving my skills**
 
 - 🌱 I’m currently learning **OOP**
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on **good projects**
 
-- 🤝 I’m looking for help with **nothing**
-
-- 👨‍💻 All of my projects are available at [nowhere](nowhere)
-
-- 📝 I regularly write articles on [nowhere](nowhere)
-
-- 💬 Ask me about **don't ask me**
-
-- 📫 How to reach me **you'll not**
+- 📫 How to reach me **email**
 
 - ⚡ Fun fact **I think I am funny and handsome**
 
